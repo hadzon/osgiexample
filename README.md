@@ -1,0 +1,2 @@
+# osgiexample
+OSGI using Karaf
